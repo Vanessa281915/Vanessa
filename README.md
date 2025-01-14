@@ -14,3 +14,5 @@ Com foco em inovação, acessibilidade e segurança, a proposta engloba a implem
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+
+##Ebook: https://github.com/Vanessa281915/Vanessa/blob/main/O%20Poder%20da%20Squad%20de%20Design.pdf
